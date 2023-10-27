@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @James-Nyangada
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a Front-End web developer
 - 📫 How to reach me email @jamesedwin03@gmail.com
 
 <!---
