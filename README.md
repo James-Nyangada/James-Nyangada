@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Home-ify](https://home-ify.co.ke/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on [N/A at the moment](N/A)
 
