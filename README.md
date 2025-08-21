@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-nyangada" alt="james-nyangada" /></a> </p>
 
-- 🔭 I’m currently working on [Home-ify](https://home-ify.co.ke/)
+- 🔭 I’m currently working on [wowradio](https://wowradio.live/)
 
 - 🌱 I’m currently learning **AWS**
 
